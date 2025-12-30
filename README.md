@@ -76,6 +76,8 @@ Visualizations such as histograms, bar charts, and heatmaps were used to clearly
 - **Seaborn**
 - **Jupyter Notebook**
 
+  ---
+
 ##  Project Structure
 
 - `notebook.ipynb` – Complete data analysis and visualizations  
