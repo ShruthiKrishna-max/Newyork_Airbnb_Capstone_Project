@@ -76,7 +76,7 @@ Visualizations such as histograms, bar charts, and heatmaps were used to clearly
 - **Seaborn**
 - **Jupyter Notebook**
 
-  ---
+---
 
 ##  Project Structure
 
@@ -96,5 +96,6 @@ This project demonstrates the complete lifecycle of a data analytics task — fr
 
 1. Open the notebook in **Google Colab**  
 2. Run all cells sequentially  
-3. Explore the outputs, charts, and conclusions  
+3. Explore the outputs, charts, and conclusions
+   [Open in Colab](https://colab.research.google.com/github/ShruthiKrishna-max/Newyork_Airbnb_Capstone_Project/blob/main/NYC_Airbnb_Analysis_Notebook.ipynb)
 
